@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bitcoin Payment Gateway</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            text-align: center;
+        }
+        .payment-form {
+            max-width: 400px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        .input-group {
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            font-weight: bold;
+        }
+        input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        button {
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="payment-form">
+        <h1>Pay with Bitcoin</h1>
+        <div class="input-group">
+            <label for="btcAddress">BTC Address:</label>
+            <label for="btc address">18HCadUkmPrBkKbD3KrpeRyiBCjcKLPBmm</label>
+        </div>
+        <button onclick="processPayment()">Paid</button>
+    </div>
+<marquee><b></b>feel free to make donations and partnership via bitcoin, contact me on whatsapp @ +2348136702115 </b></marquee>
+    <script>
+        function processPayment() {
+            // Add your BTC payment processing logic here
+            // For demonstration purposes, you can show a success message or redirect to a thank-you page
+            alert("Payment successful! Thanks for your donation.");
+        }
+    </script>
+</body>
+</html>

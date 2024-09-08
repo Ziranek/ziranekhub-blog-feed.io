@@ -1,0 +1,25 @@
+.navbar{
+    height: 200px;
+    width: 300px
+    px;
+    position:fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #333;
+    overflow-x:hidden;
+}
+.navbar a{
+    font-family: montserrat;
+    display:block;
+    color: #f2f2f2;
+    font-width: 700;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+.navbar a.active{
+    background-color: purple;
+    color:#fff;
+}
+
