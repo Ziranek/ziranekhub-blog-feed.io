@@ -1,17 +1,1 @@
- - BLOG 
-
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-## Installing vCard
-
-To install **vCard**, follow these steps:
-
-Linux and macOS:
-
-
-## License
-
-MIT
+ZIRANEK BOOG IS AN AWESOME BLOG WITH LOTS OF FEATURES, WITH THIS AWESOME SITE YOU HAVE ACCESS TO OVER 400 crypto token analysis and acess to freshly baked news and so much more 
